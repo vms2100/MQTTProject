@@ -6,6 +6,7 @@ O objetivo deste projeto é armazenar esses dados e transmiti-los de forma segur
 
 ## Arquitetura da Base de Dados
 Para entender a arquitetura do banco de dados, consulte o diagrama da base de dados em "DB/Diagrama_DB.png".
+
 Scripts sqls usados na Base de dados encontram-se na pasta DB.
 
 ## Diagrama do Sistema
