@@ -21,3 +21,4 @@ CREATE TABLE Analyze (
   FOREIGN KEY (ID_Institution) REFERENCES Institution(ID_Institution),
   CONSTRAINT unique_name UNIQUE (ID_Maregraph, ID_Institution)
 );
+
