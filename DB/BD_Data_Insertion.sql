@@ -1,7 +1,3 @@
--- SPDX-License-Identifier: MIT
--- 
--- This file is recognized as SQL
-
 -- Insert Maregraph data
 INSERT INTO Maregraph (Location, URL, User, Password) 
 VALUES 
