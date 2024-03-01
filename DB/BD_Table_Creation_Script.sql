@@ -1,3 +1,4 @@
+-- language: sql
 CREATE TABLE Maregraph (
   ID_Maregraph INTEGER PRIMARY KEY,
   Location TEXT,
