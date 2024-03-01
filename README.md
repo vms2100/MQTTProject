@@ -10,6 +10,7 @@ Scripts sqls usados na Base de dados encontram-se na pasta DB.
 
 ## Diagrama do Sistema
 Para uma compreensão mais abrangente do sistema, consulte o Diagrama do Sistema.
+
 O Codigo utilizado esta presente na pasta Projeto.
 
 ## Gerar Dados
