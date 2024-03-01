@@ -1,3 +1,4 @@
+-- language: sql
 -- Insert Maregraph data
 INSERT INTO Maregraph (Location, URL, User, Password) 
 VALUES 
