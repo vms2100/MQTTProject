@@ -19,3 +19,4 @@ VALUES
     (1, 2, 'FaroIPMA'),
     (2, 2, 'CascaisIPMA'),
     (2, 3, 'FaroUkData');
+
